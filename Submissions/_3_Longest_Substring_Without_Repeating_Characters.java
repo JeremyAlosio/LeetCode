@@ -1,8 +1,10 @@
 import java.util.HashMap;
 
 //https://leetcode.com/problems/longest-substring-without-repeating-characters/
+//#3
+//Medium
 
-public class Longest_Substring_Without_Repeating_Characters {
+public class _3_Longest_Substring_Without_Repeating_Characters {
 	public int lengthOfLongestSubstring(String s) {
 		// Quick out
 		if (s == null || s.isEmpty())

@@ -1,6 +1,8 @@
-//https://leetcode.com/problems/longest-substring-without-repeating-characters/
+//https://leetcode.com/problems/add-two-numbers/
+// #2
+// Medium
 
-public class Add_Two_Numbers {
+public class _2_Add_Two_Numbers {
 	public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 		int carry = 0;
 		ListNode sum = new ListNode(0);
