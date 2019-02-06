@@ -3,9 +3,6 @@
 // Easy
 
 public class _461_Hamming_Distance {
-	public static void main(String[] args) {
-		System.out.print(hammingDistance(1, 4));
-	}
 
 	public static int hammingDistance(int x, int y) {
 		String sx = Integer.toBinaryString(x);
